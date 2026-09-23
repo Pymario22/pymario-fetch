@@ -61,7 +61,7 @@ Se vuoi testare lo script in locale sul tuo terminale, segui questi passaggi:
 
 ## 🔗 Collegamenti Esterni
 
-* 🌐 **Sito Web Web Hub:** [Pymario su Altervista](https://altervista.org) *(sostituisci con il tuo link reale se lo desideri)*
+* 🌐 **Sito Web Web Hub:** [Pymario su Altervista](https://pymario.altervista.org)
 * 🎵 **TikTok:** [@pymario85](https://tiktok.com)
 
 ---
